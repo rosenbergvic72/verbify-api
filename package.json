@@ -1,0 +1,14 @@
+{
+  "name": "verbify-api",
+  "version": "1.0.0",
+  "description": "API для быстрых вопросов Verbify",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
