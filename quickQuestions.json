@@ -2,11 +2,11 @@
   "русский": [
     {
       "label": "Биньяны",
-      "question": "Объясни, что такое биньяны в иврите. Каковы основыне отличия. Для биньянов PAAL, PIEL, NIFAL, HIFIL и HITPAEL приведи по 3 примера в виде биньян, глагол, транслитерация и перевод."
+      "question": "Объясни, что такое биньяны в иврите. Каковы основные отличия. Для биньянов PAAL, PIEL, NIFAL, HIFIL и HITPAEL приведи по 3 примера (биньян, глагол, транслитерация, перевод)."
     },
     {
       "label": "Корни",
-      "question": "Объясни, что такое корень в глаголах иврита. Покажи как образовываются разные слова из одного корня. Приведи по 5 примеров однокоренных слов для 5 корней"
+      "question": "Объясни, что такое корень в глаголах иврита. Приведи по 5 примеров однокоренных слов для 5 разных корней."
     },
     {
       "label": "Спряжение глаголов",
@@ -18,363 +18,363 @@
     },
     {
       "label": "Предлоги",
-      "question": "Расскажи про основные ключевые предлоги (напр.: ל-, ב-, מ-, על, אל, את, עם, אצל, אחרי, לפני). Приведи к каждому по 2 примера."
+      "question": "Расскажи про основные предлоги (ל-, ב-, מ-, על, אל, את, עם, אצל, אחרי, לפני). Приведи к каждому по 2 примера."
     },
     {
       "label": "Императивы",
-      "question": "Расскажи про императивы в иврите, как образуются их формы, формы отрицания , вежливые варианты. Приведи примеры."
+      "question": "Расскажи про императивы в иврите, как образуются их формы и отрицания. Приведи примеры."
     },
     {
       "label": "Огласовки",
-      "question": "Что такое огласовки (никудот): перечисли основные знаки с названием, произношением и русской транслитерацией, приведи примеры."
+      "question": "Что такое огласовки (никудот). Перечисли основные знаки с названием, произношением и транслитерацией. Дай примеры."
     },
     {
       "label": "Местоимения",
-      "question": "Расскажи про местоимения иврита. Личные, указательные, вопросительные, относительные и неопределенные."
+      "question": "Расскажи про местоимения иврита: личные, указательные, вопросительные, относительные, неопределенные."
     },
     {
       "label": "Модальные глаголы",
-      "question": "Расскажи про модальные глаголы (например: יכול, צריך, חייב, מותר, אסור, כדאי, אפשר, עלול) и т.д. "
+      "question": "Расскажи про модальные глаголы (например: יכול, צריך, חייב, מותר, אסור, כדאי, אפשר, עלול)."
     },
     {
-    "label": "Вводные слова",
-    "question": "Приведите список вводных слов, наречий и частиц в иврите со значениями: конечно, точно, вероятно и т. д. Разделите их на группы: слова уверенности или подтверждения, слова предположения или неуверенности, слова оценки или отношения, разговорные усилители. Для каждого слова дай пример предложения на иврите с русским переводом."
-  },
+      "label": "Вводные слова",
+      "question": "Приведи список вводных слов, наречий и частиц: конечно, точно, вероятно и т. д. Раздели на группы и дай примеры предложений."
+    },
     {
       "label": "Речь",
-      "question": "Расскажи про глаголы иврита относящиеся к речи, разговору (разговаривть, говорить, рассказывать, сказать и т.д.)"
+      "question": "Расскажи про глаголы речи в иврите (говорить, сказать, рассказать и т. д.)."
     },
     {
       "label": "Зрение",
-      "question": "Расскажи про глаголы иврита относящиеся к зрению (смотреть, видеть, следить и т.д.)"
+      "question": "Расскажи про глаголы зрения в иврите (смотреть, видеть, наблюдать и т. д.)."
     },
     {
       "label": "Слух",
-      "question": "Расскажи про глаголы иврита относящиеся к слуху (слышать, слушать и т.д.)"
+      "question": "Расскажи про глаголы слуха в иврите (слышать, слушать и т. д.)."
     }
   ],
   "english": [
     {
       "label": "Binyanim",
-      "question": "Briefly explain what binyanim are (conjugation patterns). For PAAL, PIEL, NIFAL, HIFIL, HITPAEL: 1–2 key functions, how to recognize (template, prefixes/infixes/suffixes; without niqqud), and when used (active/passive/causative/reflexive). Give 3 verbs per binyan with triples (Hebrew, transliteration, translation) and state the root + binyan. End with 2–3 lines of comparison and common mistakes."
+      "question": "Explain what binyanim are in Hebrew. What are the main differences? For PAAL, PIEL, NIFAL, HIFIL, HITPAEL give 3 examples (binyan, verb, transliteration, translation)."
     },
     {
       "label": "Roots",
-      "question": "What a root (shoresh) is and how to find it. Provide 5 small sets across different binyanim: for each set, state the root and 2 forms (each as a triple) and one short note on the semantic shift."
+      "question": "Explain what a verb root is in Hebrew. Give 5 sets of related words for 5 different roots."
     },
     {
       "label": "Verb Conjugation",
-      "question": "Concise: (1) general principles (person, gender, number) — up to 5 bullets; (2) per-binyan mini-scheme (2–3 forms), no big tables; (3) one mini-paradigm on one PAAL verb: past/present/future — I/he/we (each as a triple). Add 3–4 bullets on weak roots (gutturals, initial נ, medial י/ו)."
+      "question": "Explain the main rules of Hebrew verb conjugation. Provide examples with explanations."
     },
     {
       "label": "Infinitives",
-      "question": "What the infinitive (shem poal) is, how it forms (with ל- and without), and when used. Give 2 infinitives per binyan (PAAL, PIEL, NIFAL, HIFIL, HITPAEL), each with a triple + short sample sentence."
+      "question": "What is an infinitive in Hebrew, how is it formed, and when is it used."
     },
     {
       "label": "Prepositions",
-      "question": "Pick 10 key prepositions (e.g., ל-, ב-, מ-, על, אל, את, עם, אצל, אחרי, לפני). For each, give 2 examples of “verb + preposition + complement” (triples). Conclude with 3–4 typical errors."
+      "question": "Explain the main prepositions (ל-, ב-, מ-, על, אל, את, עם, אצל, אחרי, לפני). Give 2 examples for each."
     },
     {
       "label": "Imperatives",
-      "question": "Who is actually used (2nd person sg./pl., m./f.), how forms are built, negation (אל + future), polite variants. Give 2 examples per binyan: sg. m. and pl. (m./f.) — triples."
+      "question": "Explain imperatives in Hebrew, how forms and negatives are built. Provide examples."
     },
     {
-      "label": "Vowel Points (Niqqud)",
-      "question": "Define niqqud: list 8–10 main signs with name, pronunciation, and a Russian transliteration; for each, 1 word with niqqud and the form without niqqud in parentheses. End with 2–3 lines on how niqqud affects forms/meanings."
+      "label": "Nikudot",
+      "question": "What are nikudot (vowel points). List the main signs with name, pronunciation, and transliteration. Give examples."
     },
     {
       "label": "Pronouns",
-      "question": "Compact lists: personal (full/suffixed), possessive suffixes, demonstratives, reflexives, and forms with ל-/ב-/מ- + pronominal suffixes. One short example sentence per group (triple)."
+      "question": "Explain Hebrew pronouns: personal, demonstrative, interrogative, relative, indefinite."
     },
     {
       "label": "Modal Verbs",
-      "question": "Pick 8–10 items (e.g., יכול, צריך, חייב, מותר, אסור, כדאי, אפשר, עלול). For each — 1 example (triple) and a one-line distinction note."
+      "question": "Explain modal verbs in Hebrew (for example: יכול, צריך, חייב, מותר, אסור, כדאי, אפשר, עלול)."
     },
     {
       "label": "Modal Words",
-      "question": "Three categories: certainty, uncertainty, remarks. Put 5 items per category from the user’s list (you may add 2–3 suitable). One short sentence per item (triple)."
+      "question": "List modal/introductory words like 'of course', 'exactly', 'probably'. Divide into groups and give Hebrew examples with translations."
     },
     {
       "label": "Speech",
-      "question": "Give 10 speech verbs. For each — translation, a triple, and 1 typical preposition/government. Finish with 3 short lines comparing לומר/להגיד; לדבר/לשוחח; להסביר/להודיע."
+      "question": "Explain Hebrew verbs related to speech (to speak, to say, to tell, etc.)."
     },
     {
       "label": "Vision",
-      "question": "Give 8 vision verbs. For each — translation, triple, prepositions, and 1 sample sentence. Conclude with 2–3 lines (לראות vs להסתכל/להביט; לצפות ‘watch/expect’)."
+      "question": "Explain Hebrew verbs related to vision (to see, to look, to watch, etc.)."
     },
     {
       "label": "Hearing",
-      "question": "Give 6–8 hearing verbs. For each — translation, triple, prepositions, and 1 sample. Explain in 2–3 lines: לשמוע vs להקשיב vs להאזין."
+      "question": "Explain Hebrew verbs related to hearing (to hear, to listen, etc.)."
     }
   ],
   "français": [
     {
       "label": "Binyanim",
-      "question": "Explique brièvement ce que sont les binyanim (patrons de conjugaison). Pour PAAL, PIEL, NIFAL, HIFIL, HITPAEL : 1–2 fonctions clés, comment reconnaître (gabarit, préfixes/infixes/suffixes ; sans niqqud) et quand on l’emploie (actif/passif/causatif/réfléchi). Donne 3 verbes par binyan (triple : hébreu, translittération, traduction) et indique la racine + le binyan. Termine par 2–3 lignes de comparaison et d’erreurs fréquentes."
+      "question": "Explique ce que sont les binyanim en hébreu. Quelles sont les différences principales ? Pour PAAL, PIEL, NIFAL, HIFIL et HITPAEL donne 3 exemples (binyan, verbe, translittération, traduction)."
     },
     {
       "label": "Racines",
-      "question": "Ce qu’est une racine (shoresh) et comment l’identifier. Donne 5 petits ensembles à travers des binyanim différents : pour chacun, la racine et 2 formes (chacune en triple) + une brève remarque sur le glissement sémantique."
+      "question": "Explique ce qu’est une racine verbale en hébreu. Donne 5 séries de mots dérivés de 5 racines différentes."
     },
     {
-      "label": "Conjugaison des verbes",
-      "question": "Concise : (1) principes généraux (personne, genre, nombre) — jusqu’à 5 points ; (2) mini-schéma par binyan (2–3 formes), sans grandes tables ; (3) une mini-paradigme sur un verbe PAAL : passé/présent/futur — je/il/nous (triples). Ajoute 3–4 points sur les racines « faibles » (gutturales, נ initiale, י/ו médiane)."
+      "label": "Conjugaison",
+      "question": "Explique les règles principales de la conjugaison des verbes hébreux. Donne des exemples avec explication."
     },
     {
       "label": "Infinitifs",
-      "question": "Définis l’infinitif (shem poal), sa formation (avec ל- et sans) et ses emplois. Donne 2 infinitifs par binyan (PAAL, PIEL, NIFAL, HIFIL, HITPAEL), chacun avec un triple + une phrase courte."
+      "question": "Qu’est-ce qu’un infinitif en hébreu, comment il est formé et quand il est utilisé."
     },
     {
       "label": "Prépositions",
-      "question": "Choisis 10 prépositions clés (p. ex. ל-, ב-, מ-, על, אל, את, עם, אצל, אחרי, לפני). Pour chacune : 2 exemples « verbe + préposition + complément » (triples). Conclus par 3–4 erreurs typiques."
+      "question": "Explique les prépositions principales (ל-, ב-, מ-, על, אל, את, עם, אצל, אחרי, לפני). Donne 2 exemples pour chaque."
     },
     {
       "label": "Impératifs",
-      "question": "Personnes réellement utilisées (2e pers. sg./pl., m./f.), formation, négation (אל + futur), variantes polies. Donne 2 exemples par binyan : sg. m. et pl. (m./f.) — triples."
+      "question": "Explique les impératifs en hébreu, leur formation et la négation. Donne des exemples."
     },
     {
-      "label": "Signes vocaliques (Niqqud)",
-      "question": "Liste 8–10 signes principaux avec nom, prononciation et translittération (russe). Pour chaque signe : 1 mot avec niqqud et la forme sans niqqud entre parenthèses. Termine par 2–3 lignes sur l’impact du niqqud."
+      "label": "Nikudot",
+      "question": "Qu’est-ce que les nikudot (voyelles). Donne les principaux signes avec nom, prononciation et translittération. Fournis des exemples."
     },
     {
       "label": "Pronoms",
-      "question": "Listes compactes : personnels (pleins/suffixés), suffixes possessifs, démonstratifs, réfléchis, formes avec ל-/ב-/מ- + suffixes pronominaux. 1 phrase d’exemple par groupe (triple)."
+      "question": "Explique les pronoms en hébreu: personnels, démonstratifs, interrogatifs, relatifs, indéfinis."
     },
     {
       "label": "Verbes modaux",
-      "question": "Choisis 8–10 éléments (p. ex. יכול, צריך, חייב, מותר, אסור, כדאי, אפשר, עלול). Pour chacun — 1 exemple (triple) + 1 ligne de nuance."
+      "question": "Explique les verbes modaux (ex: יכול, צריך, חייב, מותר, אסור, כדאי, אפשר, עלול)."
     },
     {
       "label": "Mots modaux",
-      "question": "Trois catégories : certitude, incertitude, remarques. 5 items par catégorie du liste fournie (ajoute 2–3 si nécessaire). 1 phrase courte par item (triple)."
+      "question": "Donne des mots introductifs comme « bien sûr », « probablement ». Classe-les en groupes et donne des exemples en hébreu avec traduction."
     },
     {
       "label": "Parole",
-      "question": "10 verbes de parole. Pour chacun — traduction, triple et 1 préposition/régime typique. Conclus par 3 lignes : לומר/להגיד ; לדבר/לשוחח ; להסביר/להודיע."
+      "question": "Explique les verbes de la parole en hébreu (parler, dire, raconter, etc.)."
     },
     {
       "label": "Vision",
-      "question": "8 verbes de vision. Pour chacun — traduction, triple, prépositions, 1 phrase. Termine par 2–3 lignes (לראות vs להסתכל/להביט ; לצפות « regarder/attendre »)."
+      "question": "Explique les verbes de la vision en hébreu (voir, regarder, observer, etc.)."
     },
     {
       "label": "Ouïe",
-      "question": "6–8 verbes de l’ouïe. Pour chacun — traduction, triple, prépositions, 1 phrase. Explique en 2–3 lignes : לשמוע vs להקשיב vs להאזין."
+      "question": "Explique les verbes de l’ouïe en hébreu (entendre, écouter, etc.)."
     }
   ],
   "español": [
     {
       "label": "Binyanim",
-      "question": "Explica brevemente qué son los binyanim (patrones de conjugación). Para PAAL, PIEL, NIFAL, HIFIL, HITPAEL: 1–2 funciones clave, cómo reconocer (plantilla, prefijos/infijos/sufijos; sin niqqud) y cuándo se usa (activo/pasivo/causativo/reflexivo). Da 3 verbos por binyán con tríos (hebreo, transliteración, traducción) e indica raíz + binyán. Cierra con 2–3 líneas de comparación y errores comunes."
+      "question": "Explica qué son los binyanim en hebreo. ¿Cuáles son las diferencias principales? Para PAAL, PIEL, NIFAL, HIFIL y HITPAEL da 3 ejemplos (binyan, verbo, transliteración, traducción)."
     },
     {
       "label": "Raíces",
-      "question": "Qué es la raíz (shoresh) y cómo identificarla. Da 5 conjuntos breves en binyanim distintos: para cada uno, la raíz y 2 formas (cada una como trío) y una nota corta sobre el desplazamiento semántico."
+      "question": "Explica qué es una raíz verbal en hebreo. Da 5 conjuntos de palabras relacionadas de 5 raíces diferentes."
     },
     {
-      "label": "Conjugación verbal",
-      "question": "Conciso: (1) principios generales (persona, género, número) — hasta 5 puntos; (2) mini-esquema por binyán (2–3 formas), sin tablas grandes; (3) una mini-paradigma con un verbo PAAL: pasado/presente/futuro — yo/él/nosotros (tríos). Señala 3–4 notas sobre raíces débiles (gutural, נ inicial, י/ו medial)."
+      "label": "Conjugación",
+      "question": "Explica las reglas principales de conjugación de los verbos hebreos. Da ejemplos con explicación."
     },
     {
       "label": "Infinitivos",
-      "question": "Qué es el infinitivo (shem poal), cómo se forma (con ל- y sin) y cuándo se usa. Da 2 infinitivos por binyán (PAAL, PIEL, NIFAL, HIFIL, HITPAEL), cada uno con trío + frase breve."
+      "question": "Qué es un infinitivo en hebreo, cómo se forma y cuándo se usa."
     },
     {
       "label": "Preposiciones",
-      "question": "Elige 10 preposiciones clave (p. ej., ל-, ב-, מ-, על, אל, את, עם, אצל, אחרי, לפני). Para cada una, 2 ejemplos «verbo + preposición + complemento» (tríos). Concluye con 3–4 errores típicos."
+      "question": "Explica las preposiciones principales (ל-, ב-, מ-, על, אל, את, עם, אצל, אחרי, לפני). Da 2 ejemplos de cada una."
     },
     {
       "label": "Imperativos",
-      "question": "Personas usadas (2.ª pers. sg./pl., m./f.), formación, negación (אל + futuro), variantes corteses. 2 ejemplos por binyán: sg. m. y pl. (m./f.) — tríos."
+      "question": "Explica los imperativos en hebreo, cómo se forman y cómo se niegan. Da ejemplos."
     },
     {
-      "label": "Signos vocálicos (Niqqud)",
-      "question": "Lista 8–10 signos con nombre, pronunciación y transliteración (ruso); para cada uno, 1 palabra con niqqud y la forma sin niqqud entre paréntesis. Termina con 2–3 líneas sobre su impacto."
+      "label": "Nikudot",
+      "question": "Qué son los nikudot (puntos vocálicos). Da los principales signos con nombre, pronunciación y transliteración. Añade ejemplos."
     },
     {
       "label": "Pronombres",
-      "question": "Listas compactas: personales (plenas/sufijadas), sufijos posesivos, demostrativos, reflexivos y formas con ל-/ב-/מ- + sufijos pronominales. 1 ejemplo por grupo (trío)."
+      "question": "Explica los pronombres hebreos: personales, demostrativos, interrogativos, relativos, indefinidos."
     },
     {
       "label": "Verbos modales",
-      "question": "Elige 8–10 (p. ej., יכול, צריך, חייב, מותר, אסור, כדאי, אפשר, עלול). Para cada uno — 1 ejemplo (trío) + 1 línea de matiz."
+      "question": "Explica los verbos modales (por ejemplo: יכול, צריך, חייב, מותר, אסור, כדאי, אפשר, עלול)."
     },
     {
       "label": "Palabras modales",
-      "question": "Tres categorías: certeza, incertidumbre, comentarios. 5 elementos por categoría del listado del usuario (añade 2–3 si procede). 1 frase breve por elemento (trío)."
+      "question": "Da palabras introductorias como « por supuesto », « probablemente ». Divídelas en grupos y da ejemplos en hebreo con traducción."
     },
     {
       "label": "Habla",
-      "question": "10 verbos de habla. Para cada uno — traducción, trío y 1 preposición/régimen típico. Cierra con 3 líneas: לומר/להגיד; לדבר/לשוחח; להסביר/להודיע."
+      "question": "Explica los verbos del habla en hebreo (hablar, decir, contar, etc.)."
     },
     {
       "label": "Visión",
-      "question": "8 verbos de visión. Para cada uno — traducción, trío, preposiciones y 1 frase. Termina con 2–3 líneas (לראות vs להסתכל/להביט; לצפות «ver/esperar»)."
+      "question": "Explica los verbos de la visión en hebreo (ver, mirar, observar, etc.)."
     },
     {
       "label": "Audición",
-      "question": "6–8 verbos de audición. Para cada uno — traducción, trío, preposiciones y 1 frase. Explica en 2–3 líneas: לשמוע vs להקשיב vs להאזין."
+      "question": "Explica los verbos de la audición en hebreo (oír, escuchar, etc.)."
     }
   ],
   "português": [
     {
       "label": "Binyanim",
-      "question": "Explique brevemente o que são os binyanim (padrões de conjugação). Para PAAL, PIEL, NIFAL, HIFIL, HITPAEL: 1–2 funções-chave, como reconhecer (modelo, prefixos/ínfijos/sufixos; sem niqqud) e quando usar (ativo/passivo/causativo/reflexivo). Dê 3 verbos por binyan com triplas (hebraico, transliteração, tradução) e informe raiz + binyan. Feche com 2–3 linhas de comparação e erros comuns."
+      "question": "Explique o que são os binyanim no hebraico. Quais são as diferenças principais? Para PAAL, PIEL, NIFAL, HIFIL e HITPAEL dê 3 exemplos (binyan, verbo, transliteração, tradução)."
     },
     {
       "label": "Raízes",
-      "question": "O que é a raiz (shoresh) e como identificá-la. Forneça 5 conjuntos curtos em binyanim distintos: para cada um, a raiz e 2 formas (cada uma como tripla) + uma nota breve sobre o desvio semântico."
+      "question": "Explique o que é uma raiz verbal em hebraico. Dê 5 conjuntos de palavras relacionadas de 5 raízes diferentes."
     },
     {
-      "label": "Conjugação verbal",
-      "question": "Conciso: (1) princípios gerais (pessoa, gênero, número) — até 5 tópicos; (2) mini-esquema por binyan (2–3 formas), sem tabelas grandes; (3) uma mini-paradigma com um verbo PAAL: passado/presente/futuro — eu/ele/nós (triplas). Destaque 3–4 pontos sobre raízes fracas (guturais, נ inicial, י/ו medial)."
+      "label": "Conjugação",
+      "question": "Explique as regras principais da conjugação dos verbos hebraicos. Dê exemplos com explicação."
     },
     {
       "label": "Infinitivos",
-      "question": "O que é o infinitivo (shem poal), como se forma (com ל- e sem) e quando se usa. Dê 2 infinitivos por binyan (PAAL, PIEL, NIFAL, HIFIL, HITPAEL), cada um com tripla + frase curta."
+      "question": "O que é um infinitivo em hebraico, como se forma e quando se usa."
     },
     {
       "label": "Preposições",
-      "question": "Escolha 10 preposições-chave (p. ex., ל-, ב-, מ-, על, אל, את, עם, אצל, אחרי, לפני). Para cada uma, 2 exemplos “verbo + preposição + complemento” (triplas). Conclua com 3–4 erros típicos."
+      "question": "Explique as principais preposições (ל-, ב-, מ-, על, אל, את, עם, אצל, אחרי, לפני). Dê 2 exemplos para cada."
     },
     {
       "label": "Imperativos",
-      "question": "Pessoas realmente usadas (2ª pess. sg./pl., m./f.), formação, negação (אל + futuro), variantes polidas. 2 exemplos por binyan: sg. m. e pl. (m./f.) — triplas."
+      "question": "Explique os imperativos no hebraico, como são formados e como se negam. Dê exemplos."
     },
     {
-      "label": "Sinais vocálicos (Niqqud)",
-      "question": "Liste 8–10 sinais com nome, pronúncia e transliteração (russo); para cada um, 1 palavra com niqqud e a forma sem niqqud entre parênteses. Feche com 2–3 linhas sobre o impacto."
+      "label": "Nikudot",
+      "question": "O que são nikudot (sinais vocálicos). Liste os principais com nome, pronúncia e transliteração. Dê exemplos."
     },
     {
       "label": "Pronomes",
-      "question": "Listas compactas: pessoais (plenas/sufixadas), sufixos possessivos, demonstrativos, reflexivos e formas com ל-/ב-/מ- + sufixos pronominais. 1 frase-exemplo por grupo (tripla)."
+      "question": "Explique os pronomes do hebraico: pessoais, demonstrativos, interrogativos, relativos, indefinidos."
     },
     {
       "label": "Verbos modais",
-      "question": "Escolha 8–10 (p. ex., יכול, צריך, חייב, מותר, אסור, כדאי, אפשר, עלול). Para cada — 1 exemplo (tripla) + 1 linha de nuance."
+      "question": "Explique os verbos modais (ex: יכול, צריך, חייב, מותר, אסור, כדאי, אפשר, עלול)."
     },
     {
       "label": "Palavras modais",
-      "question": "Três categorias: certeza, incerteza, observações. 5 itens por categoria da lista do usuário (adicione 2–3 se adequado). 1 frase curta por item (tripla)."
+      "question": "Dê palavras como « claro », « provavelmente ». Divida em grupos e dê exemplos em hebraico com tradução."
     },
     {
       "label": "Fala",
-      "question": "10 verbos de fala. Para cada — tradução, tripla e 1 preposição/regência típica. Conclua com 3 linhas: לומר/להגיד; לדבר/לשוחח; להסביר/להודיע."
+      "question": "Explique os verbos da fala em hebraico (falar, dizer, contar, etc.)."
     },
     {
       "label": "Visão",
-      "question": "8 verbos de visão. Para cada — tradução, tripla, preposições e 1 frase. Termine com 2–3 linhas (לראות vs להסתכל/להביט; לצפות “assistir/esperar”)."
+      "question": "Explique os verbos da visão em hebraico (ver, olhar, observar, etc.)."
     },
     {
       "label": "Audição",
-      "question": "6–8 verbos de audição. Para cada — tradução, tripla, preposições e 1 frase. Explique em 2–3 linhas: לשמוע vs להקשיב vs להאזין."
+      "question": "Explique os verbos da audição em hebraico (ouvir, escutar, etc.)."
     }
   ],
   "العربية": [
     {
       "label": "البِنيانيم",
-      "question": "قدّم بإيجاز ما هي البِنيانيم (أنماط التصريف). لكل من PAAL وPIEL وNIFAL وHIFIL وHITPAEL: 1–2 وظائف أساسية، وكيفية التعرّف (قالب، سوابق/أوساط/لواحق؛ دون نِقّود)، ومتى يُستعمل (معلوم/مجهول/تسبـيبي/انعكاسي). أعطِ 3 أفعال لكل بِنْيان بثلاثيات (عبري، نقل صوتي، ترجمة) واذكر الجذر + البِنْيان. اختم بـ 2–3 سطور مقارنة وأخطاء شائعة."
+      "question": "اشرح ما هي البنيانيم في العبرية. ما هي الفروقات الرئيسية؟ أعطِ 3 أمثلة لكل من PAAL وPIEL وNIFAL وHIFIL وHITPAEL (البنيان، الفعل، النقل الصوتي، الترجمة)."
     },
     {
       "label": "الجذور",
-      "question": "ما هو الجذر وكيف نحدّده. قدّم 5 مجموعات صغيرة عبر بنيانيم مختلفة: لكل مجموعة الجذر وصيغتان (كل صيغة ثلاثية) وملاحظة دلالية قصيرة."
+      "question": "اشرح ما هو جذر الفعل في العبرية. أعطِ 5 مجموعات من الكلمات المشتقة من 5 جذور مختلفة."
     },
     {
       "label": "تصريف الأفعال",
-      "question": "موجز: (1) مبادئ عامة (الشخص/النوع/العدد) — حتى 5 نقاط؛ (2) مخطط صغير لكل بنيان (2–3 صيغ) بلا جداول كبيرة؛ (3) منظومة صغيرة على فعل PAAL واحد: ماضٍ/حاضر/مستقبل — أنا/هو/نحن (ثلاثيات). أضف 3–4 نقاط عن الجذور الضعيفة (حلقية، نون ابتدائية، ياء/واو وسطية)."
+      "question": "اشرح القواعد الرئيسية لتصريف الأفعال في العبرية. أعطِ أمثلة مع توضيح."
     },
     {
       "label": "المصدر",
-      "question": "تعريف المصدر (שם פועל)، اشتقاقه (مع ל- وبدونه) ومواضع استعماله. أعطِ مصدرين لكل بنيان (PAAL, PIEL, NIFAL, HIFIL, HITPAEL) مع ثلاثية وجملة قصيرة."
+      "question": "ما هو المصدر في العبرية، كيف يتكون ومتى يُستخدم."
     },
     {
       "label": "حروف الجر",
-      "question": "اختر 10 حروف جر أساسية (مثل: ل، ب، مِن، על، אל، את، مع، אצל، אחרי، לפני). لكل واحد مثالان «فعل + حرف جر + مكمّل» (ثلاثيات). اختم بـ 3–4 أخطاء شائعة."
+      "question": "اشرح أهم حروف الجر (ל-, ב-, מ-, על, אל, את, עם, אצל, אחרי, לפני). أعطِ مثالين لكل منها."
     },
     {
       "label": "صيغة الأمر",
-      "question": "الأشخاص المستعملة (المخاطب مفرد/جمع، مذكر/مؤنث)، البناء، النفي (אל + المستقبل)، البدائل اللبقة. مثالان لكل بنيان: مفرد مذكر وجمع (م./مؤ.) — ثلاثيات."
+      "question": "اشرح صيغ الأمر في العبرية، كيف تُبنى وكيف تُنفى. أعطِ أمثلة."
     },
     {
-      "label": "علامات الحركات (Niqqud)",
-      "question": "اذكر 8–10 علامات رئيسة مع الاسم والنطق والنقل الروسي؛ لكل علامة كلمة مع نِقّود والشكل دون نِقّود بين قوسين. اختم بـ 2–3 سطور عن الأثر على المعنى/الصيغ."
+      "label": "النِقود",
+      "question": "ما هي علامات التشكيل (ניקוד). اذكر العلامات الرئيسية مع الاسم والنطق والنقل الصوتي. أعطِ أمثلة."
     },
     {
       "label": "الضمائر",
-      "question": "قوائم مختصرة: الشخصية (الكاملة/الملحقة)، لواحق الملكية، الإشارية، الانعكاسية، صيغ مع ل/ب/م + لواحق ضميرية. جملة قصيرة لكل مجموعة (ثلاثية)."
+      "question": "اشرح الضمائر في العبرية: الشخصية، الإشارية، الاستفهامية، الموصولة، النكرة."
     },
     {
-      "label": "أفعال/تراكيب دلالية",
-      "question": "اختر 8–10 عناصر (مثل: יכול, צריך, חייב, מותר, אסור, כדאי, אפשר, עלול). لكل عنصر مثال واحد (ثلاثية) وسطر تمييز."
+      "label": "الأفعال الناقصة",
+      "question": "اشرح الأفعال الناقصة في العبرية (مثل: יכול, צריך, חייב, מותר, אסור, כדאי, אפשר, עלול)."
     },
     {
-      "label": "كلمات خطابية",
-      "question": "ثلاث فئات: يقين، لا يقين، ملاحظات. ضع 5 عناصر بكل فئة من قائمة المستخدم (وأضف 2–3 عند الحاجة). جملة قصيرة لكل عنصر (ثلاثية)."
+      "label": "كلمات مودالية",
+      "question": "أعطِ كلمات مثل « بالطبع », « ربما ». قسمها إلى مجموعات وأعطِ أمثلة بالعبرية مع ترجمة."
     },
     {
-      "label": "أفعال الكلام",
-      "question": "10 أفعال. لكل فعل — ترجمة وثلاثية وحرف جر/تعدية معتاد. اختم بـ 3 سطور مقارنة: לומר/להגיד؛ לדבר/לשוחח؛ להסביר/להודיע."
+      "label": "الكلام",
+      "question": "اشرح الأفعال المتعلقة بالكلام في العبرية (تحدث، قال، روى...)."
     },
     {
-      "label": "أفعال الرؤية",
-      "question": "8 أفعال للرؤية. لكل واحد — ترجمة وثلاثية وحروف جر وجملة. اختم بـ 2–3 سطور (לראות مقابل להסתכל/להביט؛ לצפות «يشاهد/يتوقع»)."
+      "label": "الرؤية",
+      "question": "اشرح الأفعال المتعلقة بالرؤية في العبرية (رأى، نظر، شاهد...)."
     },
     {
-      "label": "أفعال السمع",
-      "question": "6–8 أفعال للسمع. لكل واحد — ترجمة وثلاثية وحروف جر وجملة. فسّر بـ 2–3 سطور: לשמוע مقابل להקשיב مقابل להאזין."
+      "label": "السمع",
+      "question": "اشرح الأفعال المتعلقة بالسمع في العبرية (سمع، استمع...)."
     }
   ],
   "አማርኛ": [
-    {
-      "label": "ቢንያኒም",
-      "question": "ቢንያኒም (የግስ ንዴት) ምንድን ናቸው በአጭር. ለPAAL/PIEL/NIFAL/HIFIL/HITPAEL: 1–2 ዋና ተግባር፣ መለያየት (መስመር፣ ፕሪፊክስ/ኢንፊክስ/ሱፊክስ፤ ያለ niqqud) እና መተግበርያ (active/passive/causative/reflexive). ለእያንዳንዱ 3 ግሶች በሶስት (ዕብራይስጥ/ትራንስልተሬሽን/ትርጉም) + ሥር እና ቢንያን ግልጽ አድርግ. መጨረሻ 2–3 መስመር ማነጻጸር እና ስህተት ነጥቦች."
-    },
-    {
-      "label": "ሥሮች",
-      "question": "ሥር (shoresh) ምንድን ነው እና እንዴት መለየት ይቻላል. 5 ቡድኖች አቅርብ በተለያዩ ቢንያኒም: ለእያንዳንዱ ሥሩን እና 2 ቅርጽ (ሶስት) + አንድ አጭር ማብራሪያ ስሜት ለውጥ."
-    },
-    {
-      "label": "የግስ ማስተካከያ",
-      "question": "አጭር: (1) መርሀ-ግብር (ሰው/ጾታ/ቁጥር) — እስከ 5 ነጥቦች; (2) በቢንያን ሚኒ-ስኬማ (2–3 ቅርጾች) ሳይሆን ታላቅ ሰንጠረዦች; (3) በPAAL አንድ ግስ ላይ ሚኒ-ፓራዳይም: ያለፈ/አሁን/ወደፊት — እኔ/እሱ/እኛ (ሶስት). 3–4 ነጥቦች ስለ ደካማ ሥሮች (guttural, נ ጀማሪ, י/ו መካከለኛ)."
-    },
-    {
-      "label": "ኢንፊኒቲቭ",
-      "question": "ኢንፊኒቲቭ (שם פועל) ምንድነው፣ እንዴት ይተካ (ከל- ጋር እና ያለ) እና መቼ ይጠቀማል. ለእያንዳንዱ ቢንያን 2 ኢንፊኒቲቭ (PAAL/PIEL/NIFAL/HIFIL/HITPAEL) — ሶስት + አጭር አሰላስል."
-    },
-    {
-      "label": "ቅድመ-ለማዎች",
-      "question": "10 አስፈላጊ ቅድመ-ለማዎች ምርጥ (ለምሳሌ: ל-, ב-, מ-, על, אל, את, עם, אצל, אחרי, לפני). ለእያንዳንዱ 2 ምሳሌ «ግስ + ቅድመ-ለማ + መሙላት» (ሶስት). መጨረሻ — 3–4 የተለመዱ ስህተቶች."
-    },
-    {
-      "label": "ትእዛዞች",
-      "question": "የሚጠቀሙ ሰዎች (2ኛ ሰው ነጠላ/ብዙ, ወ/ሴ), መመንጨት, አቃተ (אל + ወደፊት), በትሑት አማራጮች. ለእያንዳንዱ ቢንያን 2 ምሳሌ — ነጠላ ወ እና ብዙ (ወ/ሴ) — ሶስት."
-    },
-    {
-      "label": "የነባር ምልክቶች (Niqqud)",
-      "question": "8–10 ዋና ምልክቶች በስም/ንግግር/የሩሲያ ትራንስልተሬሽን; ለእያንዳንዱ 1 ቃል ከniqqud ጋር እና ያለniqqud (በኩል). መጨረሻ — 2–3 መስመር ተፅእኖ."
-    },
-    {
-      "label": "ስም አመልካቾች",
-      "question": "ኮምፓክት ዝርዝር: ግለሰባዊ (ሙሉ/ሱፊክስ), የባለቤትነት ሱፊክሶች, ምልክታዊ, ራሳቸውን, ከל-/ב-/מ- + ሱፊክስ. ለእያንዳንዱ ቡድን 1 አጭር አሰላስል (ሶስት)."
-    },
-    {
-      "label": "የችሎታ/ግዴታ",
-      "question": "8–10 ንጥሎች ምርጥ ( напр.: יכול, צריך, חייב, מותר, אסור, כדאי, אפשר, עלול ). ለእያንዳንዱ 1 ምሳሌ (ሶስት) + 1 መስመር ልዩነት."
-    },
-    {
-      "label": "የንግግር ቃላት",
-      "question": "3 ምድቦች: እርግጠኝነት, እርግጠኝነት አጥቂት, ማስታወሻዎች. በእያንዳንዱ 5 ንጥሎች ከየተሰጠው ዝርዝር; ለእያንዳንዱ 1 አጭር ሐረግ (ሶስት)."
-    },
-    {
-      "label": "የንግግር ግሶች",
-      "question": "10 ግሶች. ለእያንዳንዱ — ትርጉም, ሶስት, 1 ቅድመ-ለማ/መዋቅር. መጨረሻ — 3 መስመር: לומר/להגיד; לדבר/לשוחח; להסביר/להודיע."
-    },
-    {
-      "label": "እይታ",
-      "question": "8 ግሶች ከእይታ ጋር. ለእያንዳንዱ — ትርጉም, ሶስት, ቅድመ-ለማዎች, 1 ሐረግ. መጨረሻ — 2–3 መስመር (לראות vs להסתכל/להביט; לצפות “ማየት/መጠበቅ”)."
-    },
-    {
-      "label": "ስማት",
-      "question": "6–8 የስማት ግሶች. ለእያንዳንዱ — ትርጉም, ሶስት, ቅድመ-ለማዎች, 1 ሐረግ. 2–3 መስመር ልዩነት: לשמוע vs להקשיב vs להאזין."
-    }
-  ]
+  {
+    "label": "ቢንያኒም",
+    "question": "ቢንያኒም በዕብራይስጥ ምን ናቸው? ዋና ልዩነቶቻቸውን አስረዳ። ለPAAL፣ PIEL፣ NIFAL፣ HIFIL፣ HITPAEL 3 ምሳሌዎች (ቢንያን፣ ግስ፣ ትርጓሜ፣ ትርጉም) አቅርብ።"
+  },
+  {
+    "label": "ሥር",
+    "question": "በዕብራይስጥ የግስ ሥር ምንድን ነው? ከ5 ተለያዩ ሥሮች የተነሱ የቃላት ስብስቦችን አቅርብ።"
+  },
+  {
+    "label": "የግስ መተያየብ",
+    "question": "በዕብራይስጥ ዋና የግስ መተያየብ ህጎችን አስረዳ። ምሳሌዎችን ከማብራሪያ ጋር አቅርብ።"
+  },
+  {
+    "label": "ኢንፊኒቲቭ",
+    "question": "ኢንፊኒቲቭ በዕብራይስጥ ምን ነው፣ እንዴት ይፈጠራል እና መቼ ይጠቀማል?"
+  },
+  {
+    "label": "ቅድመ ቃላት",
+    "question": "ዋና ቅድመ ቃላትን (ל-, ב-, מ-, על, אל, את, עם, אצל, אחרי, לפני) አስረዳ። ሁለት ምሳሌዎች ስጥ።"
+  },
+  {
+    "label": "ትእዛዝ",
+    "question": "ትእዛዝ ቅርጸ ግሶች በዕብራይስጥ እንዴት ይተካሉ? ምሳሌዎች አቅርብ።"
+  },
+  {
+    "label": "ኒቁዶት",
+    "question": "ኒቁዶት (የቃላት ድምፅ ምልክቶች) ምን ናቸው? ዋናዎቹን በስም፣ በንባብ፣ በትርጉም አስረዳ። ምሳሌዎች አቅርብ።"
+  },
+  {
+    "label": "መለኪያዎች",
+    "question": "የዕብራይስጥ ሰውነታዊ ስምንት፣ የግል፣ የጥያቄ፣ የአንደኛ እና ያልተወሰኑ መለኪያዎችን አስረዳ።"
+  },
+  {
+    "label": "ሞዳል ግሶች",
+    "question": "በዕብራይስጥ ሞዳል ግሶችን አስረዳ (ለምሳሌ፡ יכול, צריך, חייב, מותר, אסור, כדאי, אפשר, עלול)."
+  },
+  {
+    "label": "ሞዳል ቃላት",
+    "question": "እንደ «እሺ», «ምናልባት» ያሉ ቃላትን አስረዳ። በቡድኖች አካፍልና ምሳሌዎች አቅርብ።"
+  },
+  {
+    "label": "ንግግር",
+    "question": "በዕብራይስጥ ንግግር የተያዙ ግሶችን አስረዳ (ለምሳሌ፡ ተናገረ፣ አለ፣ ተነጋገረ...)."
+  },
+  {
+    "label": "ራዕይ",
+    "question": "ከራዕይ ጋር የተያዙ ግሶችን አስረዳ (ለምሳሌ፡ አየ፣ ተመለከተ...)."
+  },
+  {
+    "label": "ስምንት",
+    "question": "ከስምንት ጋር የተያዙ ግሶችን አስረዳ (ለምሳሌ፡ ሰማ፣ አዳመጠ...)."
+  }
+]
 }
