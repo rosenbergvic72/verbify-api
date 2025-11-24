@@ -6,7 +6,7 @@
     },
     {
       "label": "Корни",
-      "question": "Кратко объясни, что такое корень (שורש) в иврите и как он помогает понять значение слова и находить однокоренные слова. Покажи на 8–10 примерах, как выделять корень в глаголах и как меняется значение в разных биньянах. Во всех примерах обязательно указывай форму на иврите, транслитерацию и перевод на русский."
+      "question": "Кратко объясни, что такое корень (שורש) в иврите и как он помогает понять значение слова и находить однокоренные слова. Покажи на 8–10 примерах, как выделять корень в словах (в том числе в глаголах) и как меняется значение в разных словах и формах. Во всех примерах обязательно указывай форму на иврите, транслитерацию и перевод на русский."
     },
     {
       "label": "Спряжение глаголов",
@@ -18,7 +18,7 @@
     },
     {
       "label": "Предлоги",
-      "question": "Перечисли самые важные предлоги в иврите (включая ב־, ל־, מ־, כ־ и др.) и коротко объясни их основные значения. Для каждого предлога приведи по 2–3 примера сочетаний «глагол + предлог» в простых предложениях. Во всех примерах обязательно указывай форму на иврите, транслитерацию и перевод на русский."
+      "question": "Перечисли самые важные предлоги в иврите (включая ב־, ל־, מ־, כ־ и др.) и коротко объясни их основные значения. Для каждого предлога приведи по 2–3 примера словосочетаний и простых предложений с этим предлогом. Во всех примерах обязательно указывай форму на иврите, транслитерацию и перевод на русский."
     },
     {
       "label": "Императивы",
@@ -64,7 +64,7 @@
     },
     {
       "label": "Roots",
-      "question": "Briefly explain what a Hebrew verb root (shoresh, שורש) is and how it helps to understand word meaning and word families. Show on 8–10 examples how to identify the root in verbs and how the meaning changes across binyanim. In all examples, always include the Hebrew form, transliteration, and translation into English."
+      "question": "Briefly explain what a Hebrew root (shoresh, שורש) is and how it helps to understand word meaning and word families. Show on 8–10 examples how to identify the root in Hebrew words (including verbs) and how meaning changes across different words and patterns. In all examples, always include the Hebrew form, transliteration, and translation into English."
     },
     {
       "label": "Verb Conjugation",
@@ -76,7 +76,7 @@
     },
     {
       "label": "Prepositions",
-      "question": "List the most important Hebrew prepositions (including ב־, ל־, מ־, כ־, etc.) and give their core meanings. For each preposition, show 2–3 typical “verb + preposition” combinations in simple sentences. In all examples, always include the Hebrew form, transliteration, and translation into English."
+      "question": "List the most important Hebrew prepositions (including ב־, ל־, מ־, כ־, etc.) and give their core meanings. For each preposition, show 2–3 typical phrases and simple sentences where it is used. In all examples, always include the Hebrew form, transliteration, and translation into English."
     },
     {
       "label": "Imperatives",
@@ -122,7 +122,7 @@
     },
     {
       "label": "Racines",
-      "question": "Explique en quelques phrases ce qu’est une racine verbale (shoresh, שורש) en hébreu et comment elle aide à comprendre le sens d’un mot et d’une famille de mots. Montre sur 8 à 10 exemples comment identifier la racine dans les verbes et comment le sens varie selon le binyan. Dans tous les exemples, indique toujours la forme en hébreu, la translittération et la traduction en français."
+      "question": "Explique en quelques phrases ce qu’est une racine (shoresh, שורש) en hébreu et comment elle aide à comprendre le sens d’un mot et d’une famille de mots. Montre sur 8 à 10 exemples comment identifier la racine dans des mots hébreux (y compris des verbes) et comment le sens varie selon les mots et les schémas. Dans tous les exemples, indique toujours la forme en hébreu, la translittération et la traduction en français."
     },
     {
       "label": "Conjugaison des verbes",
@@ -134,7 +134,7 @@
     },
     {
       "label": "Prépositions",
-      "question": "Dresse la liste des prépositions hébraïques les plus importantes (y compris ב־, ל־, מ־, כ־, etc.) avec leurs sens principaux. Pour chacune, montre 2 ou 3 combinaisons typiques « verbe + préposition » dans des phrases simples. Dans tous les exemples, indique toujours la forme en hébreu, la translittération et la traduction en français."
+      "question": "Dresse la liste des prépositions hébraïques les plus importantes (y compris ב־, ל־, מ־, כ־, etc.) avec leurs sens principaux. Pour chacune, montre 2 ou 3 groupes nominaux et phrases simples dans lesquelles elle apparaît. Dans tous les exemples, indique toujours la forme en hébreu, la translittération et la traduction en français."
     },
     {
       "label": "Impératifs",
@@ -180,7 +180,7 @@
     },
     {
       "label": "Raíces",
-      "question": "Explica en pocas frases qué es una raíz verbal (shoresh, שורש) en hebreo y cómo ayuda a entender el significado de las palabras y las familias de palabras. Muestra en 8–10 ejemplos cómo identificar la raíz en los verbos y cómo cambia el significado según el binyan. En todos los ejemplos, indica siempre la forma en hebreo, la transliteración y la traducción al español."
+      "question": "Explica en pocas frases qué es una raíz (shoresh, שורש) en hebreo y cómo ayuda a entender el significado de las palabras y las familias de palabras. Muestra en 8–10 ejemplos cómo identificar la raíz en palabras hebreas (incluidos verbos) y cómo cambia el sentido en distintos patrones y palabras. En todos los ejemplos, indica siempre la forma en hebreo, la transliteración y la traducción al español."
     },
     {
       "label": "Conjugación de verbos",
@@ -192,7 +192,7 @@
     },
     {
       "label": "Preposiciones",
-      "question": "Enumera las preposiciones hebreas más importantes (incluidas ב־, ל־, מ־, כ־, etc.) con sus sentidos principales. Para cada una, muestra 2–3 combinaciones típicas «verbo + preposición» en frases simples. En todos los ejemplos, indica siempre la forma en hebreo, la transliteración y la traducción al español."
+      "question": "Enumera las preposiciones hebreas más importantes (incluidas ב־, ל־, מ־, כ־, etc.) con sus sentidos principales. Para cada una, muestra 2–3 grupos de palabras y frases sencillas en las que aparezca esa preposición. En todos los ejemplos, indica siempre la forma en hebreo, la transliteración y la traducción al español."
     },
     {
       "label": "Imperativos",
@@ -238,7 +238,7 @@
     },
     {
       "label": "Raízes",
-      "question": "Explique em poucas frases o que é uma raiz verbal (shoresh, שורש) em hebraico e como ela ajuda a entender o significado das palavras e das famílias de palavras. Mostre em 8–10 exemplos como identificar a raiz em verbos e como o sentido muda de um binyan para outro. Em todos os exemplos, indique sempre a forma em hebraico, a transliteração e a tradução para o português."
+      "question": "Explique em poucas frases o que é uma raiz (shoresh, שורש) em hebraico e como ela ajuda a entender o significado das palavras e das famílias de palavras. Mostre em 8–10 exemplos como identificar a raiz em palavras hebraicas (incluindo verbos) e como o sentido muda em diferentes palavras e padrões. Em todos os exemplos, indique sempre a forma em hebraico, a transliteração e a tradução para o português."
     },
     {
       "label": "Conjugação de verbos",
@@ -250,7 +250,7 @@
     },
     {
       "label": "Preposições",
-      "question": "Liste as preposições hebraicas mais importantes (incluindo ב־, ל־, מ־, כ־ etc.) com seus sentidos principais. Para cada uma, mostre de 2 a 3 combinações típicas «verbo + preposição» em frases simples. Em todos os exemplos, indique sempre a forma em hebraico, a transliteração e a tradução para o português."
+      "question": "Liste as preposições hebraicas mais importantes (incluindo ב־, ל־, מ־, כ־ etc.) com seus sentidos principais. Para cada uma, mostre de 2 a 3 grupos de palavras e frases simples em que essa preposição aparece. Em todos os exemplos, indique sempre a forma em hebraico, a transliteração e a tradução para o português."
     },
     {
       "label": "Imperativos",
@@ -296,7 +296,7 @@
     },
     {
       "label": "الجذور",
-      "question": "اشرح في جمل قليلة ما هو جذر الفعل (shoresh, שורש) في العبرية وكيف يساعد على فهم معنى الكلمات وعائلات الكلمات. بيِّن في 8–10 أمثلة كيف نحدِّد الجذر في الأفعال وكيف يتغيّر المعنى بحسب البنيان. في جميع الأمثلة، اذكر دائماً الصيغة بالعبرية، والنقل الصوتي، والترجمة إلى العربية."
+      "question": "اشرح في جمل قليلة ما هو الجذر (shoresh, שורש) في العبرية وكيف يساعد على فهم معنى الكلمة وعائلة الكلمات. بيِّن في 8–10 أمثلة كيف نحدِّد الجذر في الكلمات العبرية (ومنها الأفعال) وكيف يتغيّر المعنى في كلمات وأنماط مختلفة. في جميع الأمثلة، اذكر دائماً الصيغة بالعبرية، والنقل الصوتي، والترجمة إلى العربية."
     },
     {
       "label": "تصريف الأفعال",
@@ -308,7 +308,7 @@
     },
     {
       "label": "حروف الجر",
-      "question": "اذكر أهم حروف الجر في العبرية (بما فيها ب־، ل־، م־، כ־ وغيرها) مع معانيها الأساسية. لكل حرف جر، أعطِ 2–3 تراكيب نموذجية من نوع «فعل + حرف جر» في جمل بسيطة. في جميع الأمثلة، اذكر دائماً الصيغة بالعبرية، والنقل الصوتي، والترجمة إلى العربية."
+      "question": "اذكر أهم حروف الجر في العبرية (بما فيها ب־، ل־، م־، כ־ وغيرها) مع معانيها الأساسية. لكل حرف جر، أعطِ 2–3 عبارات وجملاً بسيطة تحتوي على هذا الحرف. في جميع الأمثلة، اذكر دائماً الصيغة بالعبرية، والنقل الصوتي، والترجمة إلى العربية."
     },
     {
       "label": "صيغة الأمر",
@@ -354,7 +354,7 @@
     },
     {
       "label": "ሥር",
-      "question": "የግስ ሥር (shoresh, שורש) በዕብራይስጥ ምንድን እንደሆነ እና የቃላትን ትርጉም እና ቤተሰብ እንዴት እንደሚገልጽ በአጭር አስረዳ። በ8–10 ምሳሌዎች ውስጥ ሥርን እንዴት እንደሚለይ እና በቢንያኒም መተላለፋቸው ስሜታቸውን እንዴት እንደሚቀይር አሳይ። በሁሉም ምሳሌዎች ውስጥ የዕብራይስጥ ቅርጹን፣ ትርጓሜን እና ወደ አማርኛ ትርጉሙን ሁልጊዜ ግለጽ።"
+      "question": "የሥር (shoresh, שורש) ሀረግ በዕብራይስጥ ምንድን እንደሆነ እና የቃላትን ትርጉም እና ቤተሰብ እንዴት እንደሚገልጽ በአጭር አስረዳ። በ8–10 ምሳሌዎች ውስጥ ሥርን እንዴት እንደሚለይ በዕብራይስጥ ቃላት (ግሶችንም ያካትታሉ) እና በተለያዩ ቃላትና ንድፎች ላይ ትርጉሙ እንዴት እንደሚለወጥ አሳይ። በሁሉም ምሳሌዎች ውስጥ የዕብራይስጥ ቅርጹን፣ ትርጓሜን እና ወደ አማርኛ ትርጉሙን ሁልጊዜ ግለጽ።"
     },
     {
       "label": "የግስ መተያየብ",
@@ -366,7 +366,7 @@
     },
     {
       "label": "ቅድመ ቃላት",
-      "question": "በዕብራይስጥ ዋና ቅድመ ቃላትን (ב־, ל־, מ־, כ־ ወዘተ) እና ዋና ስሜታቸውን በአጭር አዘጋጅ። ለእያንዳንዱ ቅድመ ቃል 2–3 የ«ግስ + ቅድመ ቃል» ምሳሌዎችን በቀላሉ አቀርብ። በሁሉም ምሳሌዎች ውስጥ የዕብራይስጥ ቅርጹን፣ ትርጓሜን እና ወደ አማርኛ ትርጉሙን ሁልጊዜ ግለጽ።"
+      "question": "በዕብራይስጥ ዋና ቅድመ ቃላትን (ב־, ל־, מ־, כ־ ወዘተ) እና ዋና ስሜታቸውን በአጭር አዘጋጅ። ለእያንዳንዱ ቅድመ ቃል 2–3 ቀላል የሐረግ መዋቅሮችንና ንዴቶችን በአማርኛ ትርጉም ጋር አቀርብ። በሁሉም ምሳሌዎች ውስጥ የዕብራይስጥ ቅርጹን፣ ትርጓሜን እና ወደ አማርኛ ትርጉሙን ሁልጊዜ ግለጽ።"
     },
     {
       "label": "ትእዛዞች",
@@ -412,7 +412,7 @@
     },
     {
       "label": "שורשים",
-      "question": "הסבר בקצרה מהו שורש בעברית וכיצד הוא עוזר להבין את משמעות המילה ואת משפחת המילים. הראה ב-8–10 דוגמאות איך לזהות את השורש בפעלים ואיך משתנה המשמעות בין בניינים. בכל הדוגמאות כתוב תמיד את הצורה בעברית, תעתיק לטיני ותרגום או הסבר בעברית פשוטה."
+      "question": "הסבר בקצרה מהו שורש בעברית וכיצד הוא עוזר להבין את משמעות המילה ואת משפחת המילים. הראה ב-8–10 דוגמאות איך לזהות את השורש במילים בעברית (כולל בפעלים) ואיך משתנה המשמעות בין מילים וצורות שונות. בכל הדוגמאות כתוב תמיד את הצורה בעברית, תעתיק לטיני ותרגום או הסבר בעברית פשוטה."
     },
     {
       "label": "נטיית פעלים",
@@ -424,7 +424,7 @@
     },
     {
       "label": "מילות יחס",
-      "question": "ערוך רשימה קצרה של מילות היחס החשובות בעברית, כולל ב־, ל־, מ־, כ־ וכו׳, עם המשמעות העיקרית של כל אחת. עבור כל מילת יחס הבא 2–3 צירופים טיפוסיים של «פועל + מילת יחס» במשפטים פשוטים. בכל הדוגמאות כתוב תמיד את הצורה בעברית, תעתיק לטיני ותרגום או הסבר בעברית פשוטה."
+      "question": "ערוך רשימה קצרה של מילות היחס החשובות בעברית, כולל ב־, ל־, מ־, כ־ וכו׳, עם המשמעות העיקרית של כל אחת. עבור כל מילת יחס הבא 2–3 צירופים ומשפטים פשוטים שבהם היא מופיעה. בכל הדוגמאות כתוב תמיד את הצורה בעברית, תעתיק לטיני ותרגום או הסבר בעברית פשוטה."
     },
     {
       "label": "ציווי",
